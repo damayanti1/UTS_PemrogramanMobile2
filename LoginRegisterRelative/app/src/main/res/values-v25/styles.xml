@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.LoginRegisterRelative" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="android:colorPrimary">@color/primaryColor</item>
+        <item name="android:colorSecondary">@color/SecondaryColor</item>
+        <item name="android:colorAccent">@color/black</item>
+        <item name="android:textColorSecondary">@color/white</item>
+        <item name="android:textColorPrimary">@color/backgroud</item>
+
+    </style>
+</resources>
